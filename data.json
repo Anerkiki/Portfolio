@@ -1,0 +1,24 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "name1",
+        "price": 0,
+        "image": ""
+      },
+      
+      {
+        "id": 2,
+        "name": "name2",
+        "price": 0,
+        "image": ""
+      },
+      
+      {
+        "id": 3,
+        "name": "name3",
+        "price": 0,
+        "image": ""
+      }
+    ]
+  }
