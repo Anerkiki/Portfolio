@@ -246,7 +246,7 @@ form {
 }
 
 #backtotop {
-    /* move to center */
+    text-align: center;
 }
 
 @media screen and (max-width: 780px) {
